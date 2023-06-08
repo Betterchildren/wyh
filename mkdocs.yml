@@ -1,4 +1,0 @@
-site_name: Wyh's Docs
-theme:
-  name: material
-mkdocs gh-deploy --force
